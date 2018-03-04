@@ -9,7 +9,7 @@ const AboutUs = () => {
           <div className="subheading mb-5">145 Williman Street · Charleston, SC 29403 · (843) 452-0863 ·
             <a href="mailto:brandon.underwood92@gmail.com">brandon.underwood92@gmail.com</a>
           </div>
-          <p className="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+          <p className="mb-5">This is all fake data. I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
           <ul className="list-inline list-social-icons mb-0">
             <li className="list-inline-item">
               <a href="https://www.facebook.com/brandon.underwood.167">

@@ -7,7 +7,6 @@ import Experience from './components/experience';
 import Education from './components/education';
 import Skills from './components/skills';
 import Interests from './components/interests';
-import Awards from './components/awards';
 
 class App extends Component {
   render() {
@@ -20,7 +19,6 @@ class App extends Component {
           <Education />
           <Skills />
           <Interests />
-          {/* <Awards /> */}
         </div>
       </div>
     );
